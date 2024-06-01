@@ -80,11 +80,16 @@ public class Program
                 Console.WriteLine($"Request for owner '{owner}' and repo '{repo}' processed in {stopwatch.ElapsedMilliseconds} ms.");
             }
         }
+       
         catch (Exception e)
         {
             Console.WriteLine($"Error processing request: {e.Message}");
             response.StatusCode = (int)HttpStatusCode.InternalServerError;
-            response.StatusDescription = e.Message;
+            var responseString = $"<html><body><h1>Internal server error: {e.Message} </h1></body></html>";
+            var responseByteArray = Encoding.UTF8.GetBytes(responseString);
+            response.ContentLength64 = responseByteArray.Length;
+            response.ContentType = "text/html";
+            await response.OutputStream.WriteAsync(responseByteArray, 0, responseByteArray.Length);
         }
         finally
         {

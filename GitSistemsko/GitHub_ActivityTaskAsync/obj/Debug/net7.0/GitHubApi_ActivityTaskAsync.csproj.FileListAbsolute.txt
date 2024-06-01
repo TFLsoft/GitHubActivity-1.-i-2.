@@ -1,0 +1,17 @@
+C:\GitHub\GitHubActivity2\GitSistemsko\GitHub_ActivityTaskAsync\bin\Debug\net7.0\GitHubApi_ActivityTaskAsync.exe
+C:\GitHub\GitHubActivity2\GitSistemsko\GitHub_ActivityTaskAsync\bin\Debug\net7.0\GitHubApi_ActivityTaskAsync.deps.json
+C:\GitHub\GitHubActivity2\GitSistemsko\GitHub_ActivityTaskAsync\bin\Debug\net7.0\GitHubApi_ActivityTaskAsync.runtimeconfig.json
+C:\GitHub\GitHubActivity2\GitSistemsko\GitHub_ActivityTaskAsync\bin\Debug\net7.0\GitHubApi_ActivityTaskAsync.dll
+C:\GitHub\GitHubActivity2\GitSistemsko\GitHub_ActivityTaskAsync\bin\Debug\net7.0\GitHubApi_ActivityTaskAsync.pdb
+C:\GitHub\GitHubActivity2\GitSistemsko\GitHub_ActivityTaskAsync\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\GitHub\GitHubActivity2\GitSistemsko\GitHub_ActivityTaskAsync\obj\Debug\net7.0\GitHubApi_ActivityTaskAsync.csproj.AssemblyReference.cache
+C:\GitHub\GitHubActivity2\GitSistemsko\GitHub_ActivityTaskAsync\obj\Debug\net7.0\GitHubApi_ActivityTaskAsync.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\GitHubActivity2\GitSistemsko\GitHub_ActivityTaskAsync\obj\Debug\net7.0\GitHubApi_ActivityTaskAsync.AssemblyInfoInputs.cache
+C:\GitHub\GitHubActivity2\GitSistemsko\GitHub_ActivityTaskAsync\obj\Debug\net7.0\GitHubApi_ActivityTaskAsync.AssemblyInfo.cs
+C:\GitHub\GitHubActivity2\GitSistemsko\GitHub_ActivityTaskAsync\obj\Debug\net7.0\GitHubApi_ActivityTaskAsync.csproj.CoreCompileInputs.cache
+C:\GitHub\GitHubActivity2\GitSistemsko\GitHub_ActivityTaskAsync\obj\Debug\net7.0\GitHubApi_ActivityTaskAsync.csproj.CopyComplete
+C:\GitHub\GitHubActivity2\GitSistemsko\GitHub_ActivityTaskAsync\obj\Debug\net7.0\GitHubApi_ActivityTaskAsync.dll
+C:\GitHub\GitHubActivity2\GitSistemsko\GitHub_ActivityTaskAsync\obj\Debug\net7.0\refint\GitHubApi_ActivityTaskAsync.dll
+C:\GitHub\GitHubActivity2\GitSistemsko\GitHub_ActivityTaskAsync\obj\Debug\net7.0\GitHubApi_ActivityTaskAsync.pdb
+C:\GitHub\GitHubActivity2\GitSistemsko\GitHub_ActivityTaskAsync\obj\Debug\net7.0\GitHubApi_ActivityTaskAsync.genruntimeconfig.cache
+C:\GitHub\GitHubActivity2\GitSistemsko\GitHub_ActivityTaskAsync\obj\Debug\net7.0\ref\GitHubApi_ActivityTaskAsync.dll
