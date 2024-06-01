@@ -1,0 +1,34 @@
+C:\Users\laky\source\repos\Aktivnosti GitAPI\obj\Debug\net7.0\Aktivnosti GitAPI.csproj.AssemblyReference.cache
+C:\Users\laky\source\repos\Aktivnosti GitAPI\obj\Debug\net7.0\Aktivnosti GitAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laky\source\repos\Aktivnosti GitAPI\obj\Debug\net7.0\Aktivnosti GitAPI.AssemblyInfoInputs.cache
+C:\Users\laky\source\repos\Aktivnosti GitAPI\obj\Debug\net7.0\Aktivnosti GitAPI.AssemblyInfo.cs
+C:\Users\laky\source\repos\Aktivnosti GitAPI\obj\Debug\net7.0\Aktivnosti GitAPI.csproj.CoreCompileInputs.cache
+C:\Users\laky\source\repos\Aktivnosti GitAPI\bin\Debug\net7.0\Aktivnosti GitAPI.exe
+C:\Users\laky\source\repos\Aktivnosti GitAPI\bin\Debug\net7.0\Aktivnosti GitAPI.deps.json
+C:\Users\laky\source\repos\Aktivnosti GitAPI\bin\Debug\net7.0\Aktivnosti GitAPI.runtimeconfig.json
+C:\Users\laky\source\repos\Aktivnosti GitAPI\bin\Debug\net7.0\Aktivnosti GitAPI.dll
+C:\Users\laky\source\repos\Aktivnosti GitAPI\bin\Debug\net7.0\Aktivnosti GitAPI.pdb
+C:\Users\laky\source\repos\Aktivnosti GitAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\laky\source\repos\Aktivnosti GitAPI\obj\Debug\net7.0\Aktivnosti GitAPI.csproj.CopyComplete
+C:\Users\laky\source\repos\Aktivnosti GitAPI\obj\Debug\net7.0\Aktivnosti GitAPI.dll
+C:\Users\laky\source\repos\Aktivnosti GitAPI\obj\Debug\net7.0\refint\Aktivnosti GitAPI.dll
+C:\Users\laky\source\repos\Aktivnosti GitAPI\obj\Debug\net7.0\Aktivnosti GitAPI.pdb
+C:\Users\laky\source\repos\Aktivnosti GitAPI\obj\Debug\net7.0\Aktivnosti GitAPI.genruntimeconfig.cache
+C:\Users\laky\source\repos\Aktivnosti GitAPI\obj\Debug\net7.0\ref\Aktivnosti GitAPI.dll
+C:\Users\laky\Desktop\Aktivnosti GitAPI\bin\Debug\net7.0\Aktivnosti GitAPI.exe
+C:\Users\laky\Desktop\Aktivnosti GitAPI\bin\Debug\net7.0\Aktivnosti GitAPI.deps.json
+C:\Users\laky\Desktop\Aktivnosti GitAPI\bin\Debug\net7.0\Aktivnosti GitAPI.runtimeconfig.json
+C:\Users\laky\Desktop\Aktivnosti GitAPI\bin\Debug\net7.0\Aktivnosti GitAPI.dll
+C:\Users\laky\Desktop\Aktivnosti GitAPI\bin\Debug\net7.0\Aktivnosti GitAPI.pdb
+C:\Users\laky\Desktop\Aktivnosti GitAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\laky\Desktop\Aktivnosti GitAPI\obj\Debug\net7.0\Aktivnosti GitAPI.csproj.AssemblyReference.cache
+C:\Users\laky\Desktop\Aktivnosti GitAPI\obj\Debug\net7.0\Aktivnosti GitAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laky\Desktop\Aktivnosti GitAPI\obj\Debug\net7.0\Aktivnosti GitAPI.AssemblyInfoInputs.cache
+C:\Users\laky\Desktop\Aktivnosti GitAPI\obj\Debug\net7.0\Aktivnosti GitAPI.AssemblyInfo.cs
+C:\Users\laky\Desktop\Aktivnosti GitAPI\obj\Debug\net7.0\Aktivnosti GitAPI.csproj.CoreCompileInputs.cache
+C:\Users\laky\Desktop\Aktivnosti GitAPI\obj\Debug\net7.0\Aktivnosti GitAPI.csproj.CopyComplete
+C:\Users\laky\Desktop\Aktivnosti GitAPI\obj\Debug\net7.0\Aktivnosti GitAPI.dll
+C:\Users\laky\Desktop\Aktivnosti GitAPI\obj\Debug\net7.0\refint\Aktivnosti GitAPI.dll
+C:\Users\laky\Desktop\Aktivnosti GitAPI\obj\Debug\net7.0\Aktivnosti GitAPI.pdb
+C:\Users\laky\Desktop\Aktivnosti GitAPI\obj\Debug\net7.0\Aktivnosti GitAPI.genruntimeconfig.cache
+C:\Users\laky\Desktop\Aktivnosti GitAPI\obj\Debug\net7.0\ref\Aktivnosti GitAPI.dll
