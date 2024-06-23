@@ -1,0 +1,8 @@
+1    This is a great movie, I really enjoyed it!
+0    I was not satisfied with this product, it did not meet my expectations.
+1    Excellent experience, I recommend it to everyone!
+0    I would not recommend this restaurant, the food was not fresh.
+1    Outstanding service and top-notch product!
+0    Poor delivery, the product arrived damaged.
+1    I love this product, I use it every day.
+0    I am disappointed with the performance of this software.
