@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NYTimesSentimentAnalysis")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+07d4a7478f6d8a477f64546c5b8b03bef05b67b1")]
 [assembly: System.Reflection.AssemblyProductAttribute("NYTimesSentimentAnalysis")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NYTimesSentimentAnalysis")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

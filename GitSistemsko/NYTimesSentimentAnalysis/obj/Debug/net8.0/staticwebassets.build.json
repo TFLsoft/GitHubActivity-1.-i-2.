@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WiOhBtksIMNe0obk5zmoWhlGjpGKWGHeSizApkIBzJk=",
+  "Source": "NYTimesSentimentAnalysis",
+  "BasePath": "_content/NYTimesSentimentAnalysis",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1241,11 +1241,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Zadaci\\NYTimesSentimentAnalysis\\NYTimesSentimentAnalysis.csproj",
+      "projectUniqueName": "C:\\New folder\\GitHubActivity\\GitSistemsko\\NYTimesSentimentAnalysis\\NYTimesSentimentAnalysis.csproj",
       "projectName": "NYTimesSentimentAnalysis",
-      "projectPath": "C:\\Zadaci\\NYTimesSentimentAnalysis\\NYTimesSentimentAnalysis.csproj",
+      "projectPath": "C:\\New folder\\GitHubActivity\\GitSistemsko\\NYTimesSentimentAnalysis\\NYTimesSentimentAnalysis.csproj",
       "packagesPath": "C:\\Users\\Marko\\.nuget\\packages\\",
-      "outputPath": "C:\\Zadaci\\NYTimesSentimentAnalysis\\obj\\",
+      "outputPath": "C:\\New folder\\GitHubActivity\\GitSistemsko\\NYTimesSentimentAnalysis\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Marko\\AppData\\Roaming\\NuGet\\NuGet.Config",

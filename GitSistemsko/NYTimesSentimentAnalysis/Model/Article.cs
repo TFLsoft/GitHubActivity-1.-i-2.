@@ -1,4 +1,6 @@
-﻿namespace NYTimesSentimentAnalysis.Model;
+﻿using Microsoft.ML.Data;
+
+namespace NYTimesSentimentAnalysis.Model;
 
     public class Article
     {
@@ -14,5 +16,6 @@
         public float Probability { get; set; }
         public float Score { get; set; }
     }
+
 
 

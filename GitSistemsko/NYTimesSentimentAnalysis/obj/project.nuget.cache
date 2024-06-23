@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "frcBAa1GlLVhf0OUNs3sS+A/65nv3RfDiHY/+2aOu/DdvZ8V+5a5rAWga1v3uuZCMIoa/RVTS0CZeBMT3nWhyQ==",
+  "dgSpecHash": "mEOFOait5SZJ3ojYBIky+GK44ioskitvxQ+9F2PfuupmTl28afeNnpqM/vrM+bwcVz42fAyFQt6Q4V7mnoasbw==",
   "success": true,
-  "projectFilePath": "C:\\Zadaci\\NYTimesSentimentAnalysis\\NYTimesSentimentAnalysis.csproj",
+  "projectFilePath": "C:\\New folder\\GitHubActivity\\GitSistemsko\\NYTimesSentimentAnalysis\\NYTimesSentimentAnalysis.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Marko\\.nuget\\packages\\microsoft.ml\\3.0.1\\microsoft.ml.3.0.1.nupkg.sha512",
     "C:\\Users\\Marko\\.nuget\\packages\\microsoft.ml.cpumath\\3.0.1\\microsoft.ml.cpumath.3.0.1.nupkg.sha512",

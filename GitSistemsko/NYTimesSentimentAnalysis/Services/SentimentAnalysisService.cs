@@ -1,61 +1,53 @@
-﻿using global::NYTimesSentimentAnalysis.Model;
-using Microsoft.ML;
+﻿using Microsoft.ML;
 using Microsoft.ML.Data;
-using System.Collections.Generic;
+using System;
 
-namespace NYTimesSentimentAnalysis.Services;
-
-public class SentimentData
-    {
-        public string SentimentText { get; set; }
-    }
-
-    public class SentimentPrediction : SentimentData
-    {
-        [ColumnName("PredictedLabel")]
-        public bool Sentiment { get; set; }
-        public float Probability { get; set; }
-        public float Score { get; set; }
-    }
-
+namespace NYTimesSentimentAnalysis.Services
+{
     public class SentimentAnalysisService
     {
         private readonly MLContext _mlContext;
-        private readonly ITransformer _model;
+        private PredictionEngine<SentimentData, SentimentPrediction> _predictionEngine;
 
         public SentimentAnalysisService()
         {
-            _mlContext = new MLContext();
-            _model = TrainModel();
+            _mlContext = new MLContext(seed: 0);
+            TrainModel();
         }
 
-        private ITransformer TrainModel()
+        public SentimentPrediction PredictSentiment(string text)
         {
-            var data = new List<SentimentData>
-            {
-                new SentimentData { SentimentText = "I love this movie" },
-                new SentimentData { SentimentText = "I hate this movie" }
-            };
-
-            var trainingData = _mlContext.Data.LoadFromEnumerable(data);
-            var pipeline = _mlContext.Transforms.Text.FeaturizeText("Features", nameof(SentimentData.SentimentText))
-                             .Append(_mlContext.BinaryClassification.Trainers.SdcaLogisticRegression("Label", "Features"));
-
-            return pipeline.Fit(trainingData);
+            var input = new SentimentData { SentimentText = text };
+            var prediction = _predictionEngine.Predict(input);
+            return prediction;
         }
 
-        public SentimentResult PredictSentiment(string text)
+        private void TrainModel()
         {
-            var predictionEngine = _mlContext.Model.CreatePredictionEngine<SentimentData, SentimentPrediction>(_model);
-            var prediction = predictionEngine.Predict(new SentimentData { SentimentText = text });
+            var data = _mlContext.Data.LoadFromTextFile<SentimentData>(@"path\to\your\training\data.csv", hasHeader: true, separatorChar: ',');
 
-            return new SentimentResult
-            {
-                Sentiment = prediction.Sentiment,
-                Probability = prediction.Probability,
-                Score = prediction.Score
-            };
+            var pipeline = _mlContext.Transforms.Text.FeaturizeText(outputColumnName: "Features", inputColumnName: nameof(SentimentData.SentimentText))
+                            .Append(_mlContext.BinaryClassification.Trainers.SdcaLogisticRegression(labelColumnName: nameof(SentimentData.Label), featureColumnName: "Features"));
+
+            var trainedModel = pipeline.Fit(data);
+            _predictionEngine = _mlContext.Model.CreatePredictionEngine<SentimentData, SentimentPrediction>(trainedModel);
         }
     }
 
+    public class SentimentData
+    {
+        [LoadColumn(0)] // Indeks kolone u dataset-u
+        public string SentimentText { get; set; }
 
+        [LoadColumn(1)] // Indeks kolone u dataset-u koja predstavlja oznaku (label)
+        public bool Label { get; set; }
+    }
+
+    public class SentimentPrediction
+    {
+        [ColumnName("PredictedLabel")]
+        public bool Prediction { get; set; }
+    }
+
+    
+}
