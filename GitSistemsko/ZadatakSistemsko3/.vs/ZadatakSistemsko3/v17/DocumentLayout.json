@@ -1,31 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Zadaci\\ZadatakSistemsko3\\",
+  "WorkspaceRootPath": "C:\\GitHub\\GitHubActivity2\\GitSistemsko\\ZadatakSistemsko3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{76E77330-0B78-4DF6-B475-923A2E19FBB4}|ZadatakSistemsko3.csproj|c:\\zadaci\\zadataksistemsko3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{76E77330-0B78-4DF6-B475-923A2E19FBB4}|ZadatakSistemsko3.csproj|c:\\github\\githubactivity2\\gitsistemsko\\zadataksistemsko3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76E77330-0B78-4DF6-B475-923A2E19FBB4}|ZadatakSistemsko3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76E77330-0B78-4DF6-B475-923A2E19FBB4}|ZadatakSistemsko3.csproj|C:\\Zadaci\\ZadatakSistemsko3\\sentimentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76E77330-0B78-4DF6-B475-923A2E19FBB4}|ZadatakSistemsko3.csproj|solutionrelative:sentimentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76E77330-0B78-4DF6-B475-923A2E19FBB4}|ZadatakSistemsko3.csproj|C:\\Zadaci\\ZadatakSistemsko3\\sentimentprediction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76E77330-0B78-4DF6-B475-923A2E19FBB4}|ZadatakSistemsko3.csproj|solutionrelative:sentimentprediction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marko\\AppData\\Local\\Temp\\.vsdbgsrc\\e9270bb9819002e13e935b35c1179806a59dc2a9d98587e4a7e963cafad7ff47\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76E77330-0B78-4DF6-B475-923A2E19FBB4}|ZadatakSistemsko3.csproj|C:\\Zadaci\\ZadatakSistemsko3\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{76E77330-0B78-4DF6-B475-923A2E19FBB4}|ZadatakSistemsko3.csproj|c:\\github\\githubactivity2\\gitsistemsko\\zadataksistemsko3\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76E77330-0B78-4DF6-B475-923A2E19FBB4}|ZadatakSistemsko3.csproj|solutionrelative:apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marko\\AppData\\Local\\Temp\\.vsdbgsrc\\ab00fe59cc80fdedd5bdba40599a80e431371fdafa2fcd9923f10cc711dd2576\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{76E77330-0B78-4DF6-B475-923A2E19FBB4}|ZadatakSistemsko3.csproj|c:\\github\\githubactivity2\\gitsistemsko\\zadataksistemsko3\\sentimentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E77330-0B78-4DF6-B475-923A2E19FBB4}|ZadatakSistemsko3.csproj|solutionrelative:sentimentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76E77330-0B78-4DF6-B475-923A2E19FBB4}|ZadatakSistemsko3.csproj|C:\\Zadaci\\ZadatakSistemsko3\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{76E77330-0B78-4DF6-B475-923A2E19FBB4}|ZadatakSistemsko3.csproj|c:\\github\\githubactivity2\\gitsistemsko\\zadataksistemsko3\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76E77330-0B78-4DF6-B475-923A2E19FBB4}|ZadatakSistemsko3.csproj|solutionrelative:article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,93 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SentimentData.cs",
+              "DocumentMoniker": "C:\\GitHub\\GitHubActivity2\\GitSistemsko\\ZadatakSistemsko3\\SentimentData.cs",
+              "RelativeDocumentMoniker": "SentimentData.cs",
+              "ToolTip": "C:\\GitHub\\GitHubActivity2\\GitSistemsko\\ZadatakSistemsko3\\SentimentData.cs",
+              "RelativeToolTip": "SentimentData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T11:16:58.687Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Marko\\AppData\\Local\\Temp\\.vsdbgsrc\\e9270bb9819002e13e935b35c1179806a59dc2a9d98587e4a7e963cafad7ff47\\Program.cs",
-              "RelativeDocumentMoniker": "..\\..\\Users\\Marko\\AppData\\Local\\Temp\\.vsdbgsrc\\e9270bb9819002e13e935b35c1179806a59dc2a9d98587e4a7e963cafad7ff47\\Program.cs",
-              "ToolTip": "C:\\Users\\Marko\\AppData\\Local\\Temp\\.vsdbgsrc\\e9270bb9819002e13e935b35c1179806a59dc2a9d98587e4a7e963cafad7ff47\\Program.cs [Read Only]",
-              "RelativeToolTip": "..\\..\\Users\\Marko\\AppData\\Local\\Temp\\.vsdbgsrc\\e9270bb9819002e13e935b35c1179806a59dc2a9d98587e4a7e963cafad7ff47\\Program.cs [Read Only]",
-              "ViewState": "AQIAADMAAAAAAAAAAAAtwE4AAAARAAAA",
+              "Title": "Article.cs",
+              "DocumentMoniker": "C:\\GitHub\\GitHubActivity2\\GitSistemsko\\ZadatakSistemsko3\\Article.cs",
+              "RelativeDocumentMoniker": "Article.cs",
+              "ToolTip": "C:\\GitHub\\GitHubActivity2\\GitSistemsko\\ZadatakSistemsko3\\Article.cs",
+              "RelativeToolTip": "Article.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T12:58:46.58Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Marko\\AppData\\Local\\Temp\\.vsdbgsrc\\ab00fe59cc80fdedd5bdba40599a80e431371fdafa2fcd9923f10cc711dd2576\\Program.cs",
-              "RelativeDocumentMoniker": "..\\..\\Users\\Marko\\AppData\\Local\\Temp\\.vsdbgsrc\\ab00fe59cc80fdedd5bdba40599a80e431371fdafa2fcd9923f10cc711dd2576\\Program.cs",
-              "ToolTip": "C:\\Users\\Marko\\AppData\\Local\\Temp\\.vsdbgsrc\\ab00fe59cc80fdedd5bdba40599a80e431371fdafa2fcd9923f10cc711dd2576\\Program.cs [Read Only]",
-              "RelativeToolTip": "..\\..\\Users\\Marko\\AppData\\Local\\Temp\\.vsdbgsrc\\ab00fe59cc80fdedd5bdba40599a80e431371fdafa2fcd9923f10cc711dd2576\\Program.cs [Read Only]",
-              "ViewState": "AQIAACwAAAAAAAAAAAAtwEIAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T12:15:17.658Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SentimentPrediction.cs",
-              "DocumentMoniker": "C:\\Zadaci\\ZadatakSistemsko3\\SentimentPrediction.cs",
-              "RelativeDocumentMoniker": "SentimentPrediction.cs",
-              "ToolTip": "C:\\Zadaci\\ZadatakSistemsko3\\SentimentPrediction.cs",
-              "RelativeToolTip": "SentimentPrediction.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T11:17:17.221Z"
+              "WhenOpened": "2024-06-23T11:16:43.98Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SentimentData.cs",
-              "DocumentMoniker": "C:\\Zadaci\\ZadatakSistemsko3\\SentimentData.cs",
-              "RelativeDocumentMoniker": "SentimentData.cs",
-              "ToolTip": "C:\\Zadaci\\ZadatakSistemsko3\\SentimentData.cs",
-              "RelativeToolTip": "SentimentData.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T11:16:58.687Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Article.cs",
-              "DocumentMoniker": "C:\\Zadaci\\ZadatakSistemsko3\\Article.cs",
-              "RelativeDocumentMoniker": "Article.cs",
-              "ToolTip": "C:\\Zadaci\\ZadatakSistemsko3\\Article.cs",
-              "RelativeToolTip": "Article.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T11:16:43.98Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "ApiResponse.cs",
-              "DocumentMoniker": "C:\\Zadaci\\ZadatakSistemsko3\\ApiResponse.cs",
+              "DocumentMoniker": "C:\\GitHub\\GitHubActivity2\\GitSistemsko\\ZadatakSistemsko3\\ApiResponse.cs",
               "RelativeDocumentMoniker": "ApiResponse.cs",
-              "ToolTip": "C:\\Zadaci\\ZadatakSistemsko3\\ApiResponse.cs",
+              "ToolTip": "C:\\GitHub\\GitHubActivity2\\GitSistemsko\\ZadatakSistemsko3\\ApiResponse.cs",
               "RelativeToolTip": "ApiResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T11:16:26.937Z"
+              "WhenOpened": "2024-06-23T11:16:26.937Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Zadaci\\ZadatakSistemsko3\\Program.cs",
+              "DocumentMoniker": "C:\\GitHub\\GitHubActivity2\\GitSistemsko\\ZadatakSistemsko3\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Zadaci\\ZadatakSistemsko3\\Program.cs",
+              "ToolTip": "C:\\GitHub\\GitHubActivity2\\GitSistemsko\\ZadatakSistemsko3\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAA5wFMAAAAFAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-23T11:04:52.888Z",
               "EditorCaption": ""

@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GitHub\\GitHubActivity2\\GitSistemsko\\GitHub_ActivityTaskAsync\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BDD0756-842E-4612-AE13-DBD7B5C89CF4}|GitHubApi_ActivityTaskAsync.csproj|c:\\github\\githubactivity2\\gitsistemsko\\github_activitytaskasync\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BDD0756-842E-4612-AE13-DBD7B5C89CF4}|GitHubApi_ActivityTaskAsync.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BDD0756-842E-4612-AE13-DBD7B5C89CF4}|GitHubApi_ActivityTaskAsync.csproj|c:\\github\\githubactivity2\\gitsistemsko\\github_activitytaskasync\\aktivnosti\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BDD0756-842E-4612-AE13-DBD7B5C89CF4}|GitHubApi_ActivityTaskAsync.csproj|solutionrelative:aktivnosti\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BDD0756-842E-4612-AE13-DBD7B5C89CF4}|GitHubApi_ActivityTaskAsync.csproj|c:\\github\\githubactivity2\\gitsistemsko\\github_activitytaskasync\\aktivnosti\\cache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BDD0756-842E-4612-AE13-DBD7B5C89CF4}|GitHubApi_ActivityTaskAsync.csproj|solutionrelative:aktivnosti\\cache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BDD0756-842E-4612-AE13-DBD7B5C89CF4}|GitHubApi_ActivityTaskAsync.csproj|c:\\github\\githubactivity2\\gitsistemsko\\github_activitytaskasync\\aktivnosti\\cacheitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BDD0756-842E-4612-AE13-DBD7B5C89CF4}|GitHubApi_ActivityTaskAsync.csproj|solutionrelative:aktivnosti\\cacheitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BDD0756-842E-4612-AE13-DBD7B5C89CF4}|GitHubApi_ActivityTaskAsync.csproj|c:\\github\\githubactivity2\\gitsistemsko\\github_activitytaskasync\\aktivnosti\\dirextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BDD0756-842E-4612-AE13-DBD7B5C89CF4}|GitHubApi_ActivityTaskAsync.csproj|solutionrelative:aktivnosti\\dirextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BDD0756-842E-4612-AE13-DBD7B5C89CF4}|GitHubApi_ActivityTaskAsync.csproj|c:\\github\\githubactivity2\\gitsistemsko\\github_activitytaskasync\\aktivnosti\\githubevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BDD0756-842E-4612-AE13-DBD7B5C89CF4}|GitHubApi_ActivityTaskAsync.csproj|solutionrelative:aktivnosti\\githubevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BDD0756-842E-4612-AE13-DBD7B5C89CF4}|GitHubApi_ActivityTaskAsync.csproj|c:\\github\\githubactivity2\\gitsistemsko\\github_activitytaskasync\\aktivnosti\\githubresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BDD0756-842E-4612-AE13-DBD7B5C89CF4}|GitHubApi_ActivityTaskAsync.csproj|solutionrelative:aktivnosti\\githubresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\GitHub\\GitHubActivity2\\GitSistemsko\\GitHub_ActivityTaskAsync\\aktivnosti\\Author.cs",
+              "RelativeDocumentMoniker": "aktivnosti\\Author.cs",
+              "ToolTip": "C:\\GitHub\\GitHubActivity2\\GitSistemsko\\GitHub_ActivityTaskAsync\\aktivnosti\\Author.cs",
+              "RelativeToolTip": "aktivnosti\\Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T23:40:37.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cache.cs",
+              "DocumentMoniker": "C:\\GitHub\\GitHubActivity2\\GitSistemsko\\GitHub_ActivityTaskAsync\\aktivnosti\\Cache.cs",
+              "RelativeDocumentMoniker": "aktivnosti\\Cache.cs",
+              "ToolTip": "C:\\GitHub\\GitHubActivity2\\GitSistemsko\\GitHub_ActivityTaskAsync\\aktivnosti\\Cache.cs",
+              "RelativeToolTip": "aktivnosti\\Cache.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T23:40:35.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CacheItem.cs",
+              "DocumentMoniker": "C:\\GitHub\\GitHubActivity2\\GitSistemsko\\GitHub_ActivityTaskAsync\\aktivnosti\\CacheItem.cs",
+              "RelativeDocumentMoniker": "aktivnosti\\CacheItem.cs",
+              "ToolTip": "C:\\GitHub\\GitHubActivity2\\GitSistemsko\\GitHub_ActivityTaskAsync\\aktivnosti\\CacheItem.cs",
+              "RelativeToolTip": "aktivnosti\\CacheItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T23:40:29.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DirExtension.cs",
+              "DocumentMoniker": "C:\\GitHub\\GitHubActivity2\\GitSistemsko\\GitHub_ActivityTaskAsync\\aktivnosti\\DirExtension.cs",
+              "RelativeDocumentMoniker": "aktivnosti\\DirExtension.cs",
+              "ToolTip": "C:\\GitHub\\GitHubActivity2\\GitSistemsko\\GitHub_ActivityTaskAsync\\aktivnosti\\DirExtension.cs",
+              "RelativeToolTip": "aktivnosti\\DirExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T23:40:18.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GitHubEvent.cs",
+              "DocumentMoniker": "C:\\GitHub\\GitHubActivity2\\GitSistemsko\\GitHub_ActivityTaskAsync\\aktivnosti\\GitHubEvent.cs",
+              "RelativeDocumentMoniker": "aktivnosti\\GitHubEvent.cs",
+              "ToolTip": "C:\\GitHub\\GitHubActivity2\\GitSistemsko\\GitHub_ActivityTaskAsync\\aktivnosti\\GitHubEvent.cs",
+              "RelativeToolTip": "aktivnosti\\GitHubEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T23:40:05.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GitHubResult.cs",
+              "DocumentMoniker": "C:\\GitHub\\GitHubActivity2\\GitSistemsko\\GitHub_ActivityTaskAsync\\aktivnosti\\GitHubResult.cs",
+              "RelativeDocumentMoniker": "aktivnosti\\GitHubResult.cs",
+              "ToolTip": "C:\\GitHub\\GitHubActivity2\\GitSistemsko\\GitHub_ActivityTaskAsync\\aktivnosti\\GitHubResult.cs",
+              "RelativeToolTip": "aktivnosti\\GitHubResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T23:40:03.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GitHub\\GitHubActivity2\\GitSistemsko\\GitHub_ActivityTaskAsync\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\GitHub\\GitHubActivity2\\GitSistemsko\\GitHub_ActivityTaskAsync\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAUwA0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T16:27:58.835Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

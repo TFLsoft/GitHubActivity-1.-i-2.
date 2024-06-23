@@ -1,4 +1,5 @@
 ﻿using Microsoft.ML;
+using Microsoft.ML.Data;
 using Newtonsoft.Json;
 using System.Diagnostics;
 using System.Reactive.Linq;
@@ -9,7 +10,7 @@ class Program
     static async Task Main(string[] args)
     {
         string apiKey = "rOOVc3tQDBWxAtUzlubwY7ZjxAh2HyVf";
-        string apiUrl = $"https://api.nytimes.com/svc/mostpopular/v2/viewed/1.json?api-key={apiKey}";
+        string apiUrl = $"https://api.nytimes.com/svc/mostpopular/v2/viewed/30.json?api-key={apiKey}";
 
         try
         {
@@ -34,7 +35,7 @@ class Program
                 {
                     Console.WriteLine($"Title: {result.Article.Title}");
                     Console.WriteLine($"Abstract: {result.Article.Abstract}");
-                    Console.WriteLine($"Sentiment: {result.Sentiment.Prediction}");
+                    Console.WriteLine( $"Sentiment: {result.Sentiment.Prediction}");
                     Console.WriteLine();
                 });
 
@@ -63,22 +64,27 @@ class Program
 
     static ITransformer TrainModel(MLContext mlContext)
     {
-        var dataPath = @"C:\Zadaci\ZadatakSistemsko3\bin\Debug\net8.0\sentiment_labelled_sentences\sentiment.txt";
+  
+        var dataPath = @"C:\GitHub\GitHubActivity2\GitSistemsko\ZadatakSistemsko3\bin\Debug\net8.0\sentiment_labelled_sentences/sentiment.txt";
 
         if (!File.Exists(dataPath))
         {
             throw new FileNotFoundException($"File not found at path: {dataPath}");
         }
 
-        var dataView = mlContext.Data.LoadFromTextFile<SentimentData>(dataPath, hasHeader: false);
+        var dataView = mlContext.Data.LoadFromTextFile<SentimentData>(dataPath,separatorChar: ',', hasHeader: false);
 
-        var pipeline = mlContext.Transforms.Text.FeaturizeText("Features", nameof(SentimentData.SentimentText))
-            .Append(mlContext.Transforms.Conversion.MapValueToKey("Label", nameof(SentimentData.Label)))
-            .Append(mlContext.Transforms.NormalizeMinMax("Features"))
-            .Append(mlContext.Transforms.Concatenate("Features", "Features"))
-            .Append(mlContext.BinaryClassification.Trainers.SdcaLogisticRegression());
+        var pipeline = mlContext.Transforms.Conversion
+            .MapValueToKey(inputColumnName: nameof(SentimentData.Sentiment), outputColumnName: "Label")
+            .Append(mlContext.Transforms.Text.FeaturizeText(inputColumnName: nameof(SentimentData.SentimentText),
+                outputColumnName: "SentimentTextFeaturized"))
+            .Append(mlContext.Transforms.Concatenate("Features", "SentimentTextFeaturized"))
+   
+                    .Append(mlContext.MulticlassClassification.Trainers.SdcaMaximumEntropy("Label", "Features"))
+                    .Append(mlContext.Transforms.Conversion.MapKeyToValue("PredictedLabel"));
 
         var model = pipeline.Fit(dataView);
+
 
         return model;
     }
@@ -91,6 +97,7 @@ class Program
 
         var input = new SentimentData { SentimentText = text };
         var prediction = predictionEngine.Predict(input);
+
 
         return prediction;
     }
