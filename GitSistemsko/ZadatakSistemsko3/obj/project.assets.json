@@ -1241,11 +1241,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GitHub\\GitHubActivity2\\GitSistemsko\\ZadatakSistemsko3\\ZadatakSistemsko3.csproj",
+      "projectUniqueName": "C:\\GitHub\\GitHubActivity2\\GitSistemsko\\ZadatakSistemsko3 - Copy\\ZadatakSistemsko3.csproj",
       "projectName": "ZadatakSistemsko3",
-      "projectPath": "C:\\GitHub\\GitHubActivity2\\GitSistemsko\\ZadatakSistemsko3\\ZadatakSistemsko3.csproj",
+      "projectPath": "C:\\GitHub\\GitHubActivity2\\GitSistemsko\\ZadatakSistemsko3 - Copy\\ZadatakSistemsko3.csproj",
       "packagesPath": "C:\\Users\\laky\\.nuget\\packages\\",
-      "outputPath": "C:\\GitHub\\GitHubActivity2\\GitSistemsko\\ZadatakSistemsko3\\obj\\",
+      "outputPath": "C:\\GitHub\\GitHubActivity2\\GitSistemsko\\ZadatakSistemsko3 - Copy\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\laky\\AppData\\Roaming\\NuGet\\NuGet.Config",
